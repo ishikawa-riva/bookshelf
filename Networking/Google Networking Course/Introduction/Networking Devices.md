@@ -20,9 +20,13 @@
 
 Allows multiple computer to connect.
 Not Intelligent. Broadcast data to all the workstations in a network , they can identify if data is made for them or not.
+#### This is a LAYER - 1 DEVICE
 
 **This creates Collision Domain**
 ![[Pasted image 20210405025433.png]]
 ![[Pasted image 20210405025534.png]]
 
-Collision daom
+Collision domain makes the system to wait if two system try sending data at the same time and asks them to re send the data.
+
+### Switch
+![[Pasted image 20210405025955.png]]
