@@ -50,4 +50,9 @@ MAC address is divided into two parts - 3 Octet Each
 **Preamble :** 8bytes (64 bits ) long can be split into two sections. First 7 bytes are alternating 0s and 1s used as buffer between network devices to sync clock and transfer speed.
 The **Last Byte** is called **SFD (Start Frame Delimiter) : Signals the receiving device that preamble is over and not the actual data begins.**
 
-**Destination MAC Address :** Hardware address of the recipient. 	
+**Destination MAC Address :** Hardware address of the recipient.
+**Source MAC Address :** Hardware address of the sender.
+
+**Ether-Type Field :** 16 bits long. Describes the protocol of the contents of the frame.
+**VLAN Header :** Before of Ether Type field VLAN Header may also found, which indicates that the frame itself is a VLAN frame.
+![[Pasted image 20210405042833.png]]
