@@ -47,4 +47,7 @@ MAC address is divided into two parts - 3 Octet Each
 ### Ethernet Frame
 ![[Pasted image 20210405041736.png]]
 
-**Preamble :** 8bytes (64 bits )
+**Preamble :** 8bytes (64 bits ) long can be split into two sections. First 7 bytes are alternating 0s and 1s used as buffer between network devices to sync clock and transfer speed.
+The **Last Byte** is called **SFD (Start Frame Delimiter) : Signals the receiving device that preamble is over and not the actual data begins.**
+
+**Destination MAC Address :** Hardware address of the recipient. 	
