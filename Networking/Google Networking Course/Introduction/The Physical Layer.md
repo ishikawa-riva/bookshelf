@@ -18,3 +18,14 @@
 ![[Pasted image 20210405032821.png]]
 
 ![[Pasted image 20210405032946.png]]
+
+## Connectors
+
+![[Pasted image 20210405033118.png]]
+
+A plug can connect to its specific type of network port
+A network port is attached physically to a network device.
+
+![[Pasted image 20210405033323.png]]
+![[Pasted image 20210405033337.png]]
+![[Pasted image 20210405033353.png]]
