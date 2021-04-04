@@ -59,4 +59,4 @@ The **Last Byte** is called **SFD (Start Frame Delimiter) : Signals the receivin
 **Payload :** ![[Pasted image 20210405042918.png]]
 **FCS (Frame Check Sequence) :** ![[Pasted image 20210405043022.png]]
 ![[Pasted image 20210405043046.png]]
-![[Pasted image 20210405043100.png]]
+![[Pasted image 20210405043450.png]]
