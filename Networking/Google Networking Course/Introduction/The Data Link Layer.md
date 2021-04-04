@@ -26,5 +26,14 @@ which is  ***
 
 MAC address is divided into two parts - 3 Octet Each 
 ![[Pasted image 20210405040344.png]]
-**Last 3 Octets can be assigned any way possible manufacturer wants **
+**Last 3 Octets can be assigned any way possible manufacturer wants**
 ![[Pasted image 20210405040518.png]]
+
+
+![[Pasted image 20210405040636.png]]
+
+## Unicast, Multicast and Broadcast  
+![[Pasted image 20210405041038.png]]
+![[Pasted image 20210405041059.png]]
+![[Pasted image 20210405041221.png]]
+![[Pasted image 20210405041321.png]]
