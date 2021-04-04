@@ -35,4 +35,10 @@ Only sends data to the correct system.
 ## Routers (LAYER- 3 Device)
 ![[Pasted image 20210405030420.png]]
 Knows how to forward data between independent networks
-Inspects IP data to get the exact location to send data on 
+Inspects IP data to get the exact location to send data on network
+![[Pasted image 20210405030722.png]]
+
+**use BGP to share data.**
+
+## Servers and Clients
+![[Pasted image 20210405030958.png]]
