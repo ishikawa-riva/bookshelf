@@ -37,3 +37,14 @@ MAC address is divided into two parts - 3 Octet Each
 ![[Pasted image 20210405041059.png]]
 ![[Pasted image 20210405041221.png]]
 ![[Pasted image 20210405041321.png]]
+
+
+## Dissecting Ethernet Frame
+![[Pasted image 20210405041431.png]]
+**Data Packets at Ethernet Level are known as Ethernet frames**
+![[Pasted image 20210405041543.png]]
+
+### Ethernet Frame
+![[Pasted image 20210405041736.png]]
+
+**Preamble :** 8bytes (64 bits )
