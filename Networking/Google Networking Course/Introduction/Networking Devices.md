@@ -1,6 +1,6 @@
 # Networking Devices
 
-## Cables
+## Cables (LAYER-1 Device)
 
 ### Copper (Twisted Pairs)
 ![[Pasted image 20210404180026.png]]
@@ -14,13 +14,13 @@
 
 
 ## Hubs and Switches
+Used to connect in LAN network
 
-### Hub
+### Hub (LAYER - 1 Device)
 ![[Pasted image 20210405025200.png]]
 
 Allows multiple computer to connect.
 Not Intelligent. Broadcast data to all the workstations in a network , they can identify if data is made for them or not.
-#### This is a LAYER - 1 DEVICE
 
 **This creates Collision Domain**
 ![[Pasted image 20210405025433.png]]
@@ -28,5 +28,11 @@ Not Intelligent. Broadcast data to all the workstations in a network , they can 
 
 Collision domain makes the system to wait if two system try sending data at the same time and asks them to re send the data.
 
-### Switch
+### Switch (LAYER-2 Device)
 ![[Pasted image 20210405025955.png]]
+Only sends data to the correct system.
+
+## Routers (LAYER- 3 Device)
+![[Pasted image 20210405030420.png]]
+Knows how to forward data between independent networks
+Inspects IP data to get the exact location to send data on 
