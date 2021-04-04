@@ -42,3 +42,6 @@ Inspects IP data to get the exact location to send data on network
 
 ## Servers and Clients
 ![[Pasted image 20210405030958.png]]
+
+**Server -** Anything that provide data to a client.
+**Client -** Anything that request and use data.
