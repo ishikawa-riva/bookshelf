@@ -56,3 +56,7 @@ The **Last Byte** is called **SFD (Start Frame Delimiter) : Signals the receivin
 **Ether-Type Field :** 16 bits long. Describes the protocol of the contents of the frame.
 **VLAN Header :** Before of Ether Type field VLAN Header may also found, which indicates that the frame itself is a VLAN frame.
 ![[Pasted image 20210405042833.png]]
+**Payload :** ![[Pasted image 20210405042918.png]]
+**FCS (Frame Check Sequence) :** ![[Pasted image 20210405043022.png]]
+![[Pasted image 20210405043046.png]]
+![[Pasted image 20210405043100.png]]
