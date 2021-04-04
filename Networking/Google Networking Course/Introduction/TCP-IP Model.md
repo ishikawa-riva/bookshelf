@@ -9,7 +9,7 @@ Deals With MAC address.
 
 ### Protocols used :
 * Ethernet
-* Wireless WAP/WPA/WPA2
+* Wireless WiFi
 
 
 ## Network Layer (Internet Layer)
