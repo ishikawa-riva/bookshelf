@@ -20,4 +20,11 @@ CSMA/CD (Carrier Sense Multiple Access with Collision Domain) Technique is used 
 
 ![[Pasted image 20210405040016.png]]
 
-T
+***Total Possible MAC address = 2^48
+which is  ***
+![[Pasted image 20210405040218.png]]
+
+MAC address is divided into two parts - 3 Octet Each 
+![[Pasted image 20210405040344.png]]
+**Last 3 Octets can be assigned any way possible manufacturer wants **
+![[Pasted image 20210405040518.png]]
